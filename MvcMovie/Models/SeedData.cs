@@ -23,7 +23,7 @@ namespace MvcMovie.Models
                 context.Movie.AddRange(
                     new Movie
                     {
-                        Title = "When Harry Met Sally",
+                        Title = "When Harry Met Sally 2",
                         ReleaseDate = DateTime.Parse("1989-2-12"),
                         Genre = "Romantic Comedy",
                         Rating = "R",
