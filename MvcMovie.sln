@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMovie", "MvcMovie\MvcMovie.csproj", "{8B17F234-D564-4375-8ACE-5710EE64915E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMovie", "TestMovie\TestMovie.csproj", "{77F1A5B1-CFA6-4D4A-80BA-06F20147977C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B17F234-D564-4375-8ACE-5710EE64915E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B17F234-D564-4375-8ACE-5710EE64915E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B17F234-D564-4375-8ACE-5710EE64915E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B17F234-D564-4375-8ACE-5710EE64915E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77F1A5B1-CFA6-4D4A-80BA-06F20147977C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F1A5B1-CFA6-4D4A-80BA-06F20147977C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F1A5B1-CFA6-4D4A-80BA-06F20147977C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F1A5B1-CFA6-4D4A-80BA-06F20147977C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B066EB35-3B73-4B44-821A-2B5ABCBE907A}
+	EndGlobalSection
+EndGlobal
